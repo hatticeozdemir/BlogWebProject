@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+body
+{
+	font-family:'Open Sans' , sans-serif; background-color:#232323; 
+}
+
+.container{width: 800px; height: 500px; margin:0 auto; margin-top:50px; background-color:#f4f4f4;}
+.header{width:800px; height:80px; background-color:#88001b;}
+.logo{float:left; margin-top:13px; margin-left:30px;}
+.logo img{width:200px; height:50px;}
+.menu{margin-top:30px; float:left; margin-left:30px;}
+.menu li{float:left; list-style-type:none; font-size:18px;}
+.menu li a{color:#fff; padding:10px 10px; text-decoration:none;}
+
+.sol{ float:left; width:250px; height:400px;}
+.profil{margin-top:20px; margin-left:20px;}
+.profil img{float:left; width:200px; height:200px; border-radius:300px;}
+.bilgi-kutusu{text-align:center; color:#353535; margin-top:10px; width:240px;}
+.sosyal{width:240px; margin-left:26px;}
+.sosyal img{width:200px; height:80px; margin-top:10px;}
+.cv{width:160px; height:60px; margin:0 auto; background-color:#232323; margin:0 auto; overflow:hidden; margin-top:3px; border-radius:5px; text-decoration:none;}
+.cv-yazi{text-align:center; color:#fff; font-size:30px; margin-top:10px; text-decoration:none;}
+.cv a{text-decoration:none}
+.sağ{float:right; width:550px; height:400px;  } 
+.alan {float:left; width:500px; }
+.baslik{width:500px; font-size:18px; margin-top:10px;}
+.yazi{font-size:14px; margin-bottom:10px;}
+.kutu{width:500px; height:30px; margin-top:10px; border-radius:3px; border:1px solid #ccc;}
+.limit1{width:60%; height:30px; background-color:#88001b;}
+.limit2{width:80%; height:30px; background-color:#ffe600;}
+.limit3{width:65%; height:30px; background-color:#ff6f00;}
+.limit4{width:80%; height:30px; background-color:#3281cb;}
+
+.içkutu{position:absolute; width:auto; height:20px; margin-top:20px;margin-top:5px; margin-left:10px; background-color:#fff; border-radius:3px; padding:0px 10px;}
+
+.i-sağ{width: 700px; font-size:18px; margin-top:10px; margin:0 auto;}
+.i-baslik{width:700px; font-size:18px; margin-top:15px;}
+.ad{width:300px; height:30px; border:1px solid #f6f6f6; border-radius:3px;}
+.iletisim{margin-top:10px;}
+.mesaj{width:500px; height:100px;}
+.buton{width:100px; height:40px; border-radius:3px;}
+
+
+
+.uyelik{ width:700px; font-size:18px; margin-top:15px;   }
